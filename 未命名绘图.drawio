@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-22T02:19:09.743Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="IB19n2eZ7u97fBdUkntA" version="22.1.3" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-22T02:23:55.040Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="KtuyyBZY2gxIsj0aZnCt" version="22.1.3" type="github">
   <diagram name="第 1 页" id="QmC968UpIxkXJj3YmjL3">
     <mxGraphModel dx="728" dy="619" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -7,22 +7,28 @@
         <mxCell id="dgQacXj2_3Oyo4eFd3e8-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="dgQacXj2_3Oyo4eFd3e8-1" target="dgQacXj2_3Oyo4eFd3e8-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="dgQacXj2_3Oyo4eFd3e8-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="dgQacXj2_3Oyo4eFd3e8-1" target="dgQacXj2_3Oyo4eFd3e8-9">
+        <mxCell id="dgQacXj2_3Oyo4eFd3e8-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="dgQacXj2_3Oyo4eFd3e8-1" target="dgQacXj2_3Oyo4eFd3e8-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="dgQacXj2_3Oyo4eFd3e8-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="dgQacXj2_3Oyo4eFd3e8-1" target="dgQacXj2_3Oyo4eFd3e8-11">
+        <mxCell id="dgQacXj2_3Oyo4eFd3e8-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="dgQacXj2_3Oyo4eFd3e8-1" target="dgQacXj2_3Oyo4eFd3e8-26">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="dgQacXj2_3Oyo4eFd3e8-1" value="创作者是世界上最自私的人" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="250" y="220" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="dgQacXj2_3Oyo4eFd3e8-7" value="任何一门课，一本书，首先解决的是作者本身的问题" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="140" y="320" width="120" height="60" as="geometry" />
+        <mxCell id="dgQacXj2_3Oyo4eFd3e8-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="dgQacXj2_3Oyo4eFd3e8-7" target="dgQacXj2_3Oyo4eFd3e8-26">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="dgQacXj2_3Oyo4eFd3e8-9" value="好作品的价值是，首先作者是极其挑剔的，其次别人也有类似的困惑" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="330" y="320" width="120" height="60" as="geometry" />
+        <mxCell id="dgQacXj2_3Oyo4eFd3e8-7" value="任何一门课，一本书，首先解决的是作者本身的问题" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="330" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dgQacXj2_3Oyo4eFd3e8-9" value="首先作者是极其挑剔的，其次别人也有类似的困惑" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="414" y="110" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="dgQacXj2_3Oyo4eFd3e8-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="dgQacXj2_3Oyo4eFd3e8-11" target="dgQacXj2_3Oyo4eFd3e8-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dgQacXj2_3Oyo4eFd3e8-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="dgQacXj2_3Oyo4eFd3e8-11" target="dgQacXj2_3Oyo4eFd3e8-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="dgQacXj2_3Oyo4eFd3e8-11" value="洞挖的够不够深（深度创作）" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
@@ -47,6 +53,15 @@
         </mxCell>
         <mxCell id="dgQacXj2_3Oyo4eFd3e8-23" value="最好的知识管理、时间管理、精力管理" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="40" y="10" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dgQacXj2_3Oyo4eFd3e8-26" value="曾经困扰你的问题，打动你的事物" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="220" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dgQacXj2_3Oyo4eFd3e8-28" value="动机" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="195" y="218" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dgQacXj2_3Oyo4eFd3e8-31" value="价值" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="355" y="118" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

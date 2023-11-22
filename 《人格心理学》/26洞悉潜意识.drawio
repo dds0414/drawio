@@ -1,9 +1,30 @@
-<mxfile host="app.diagrams.net" modified="2023-11-22T06:59:09.342Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" version="22.1.3" etag="6GVuhsRKbp379cyxTO_G" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-22T07:27:59.923Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="tqJTkeYFFmsiwIfHrguz" version="22.1.3" type="github">
   <diagram name="第 1 页" id="gyupmdjK00yFcFKJQauB">
-    <mxGraphModel>
+    <mxGraphModel dx="1026" dy="619" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="qrYLiI7_UfQJoC_Avw4r-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qrYLiI7_UfQJoC_Avw4r-1" target="qrYLiI7_UfQJoC_Avw4r-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qrYLiI7_UfQJoC_Avw4r-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="qrYLiI7_UfQJoC_Avw4r-1" target="qrYLiI7_UfQJoC_Avw4r-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qrYLiI7_UfQJoC_Avw4r-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="qrYLiI7_UfQJoC_Avw4r-1" target="qrYLiI7_UfQJoC_Avw4r-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qrYLiI7_UfQJoC_Avw4r-1" value="通往潜意识的三条路径" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qrYLiI7_UfQJoC_Avw4r-2" value="自由联想" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qrYLiI7_UfQJoC_Avw4r-4" value="移情分析" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="270" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qrYLiI7_UfQJoC_Avw4r-6" value="梦到解析" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="410" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>

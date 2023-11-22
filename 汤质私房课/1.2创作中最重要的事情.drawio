@@ -1,9 +1,87 @@
-<mxfile host="app.diagrams.net" modified="2023-11-22T02:38:36.670Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" version="22.1.3" etag="0B49iZ4hwOZv-odUICWs" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-22T03:08:46.211Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="1Npf3ZluIdLm-NBLWhsm" version="22.1.3" type="github">
   <diagram name="第 1 页" id="KmPBtpWjfUS0nx7-sL75">
-    <mxGraphModel>
+    <mxGraphModel dx="766" dy="616" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="t58oHm_rBkXlfjUoumlM-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="t58oHm_rBkXlfjUoumlM-2" target="t58oHm_rBkXlfjUoumlM-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="t58oHm_rBkXlfjUoumlM-2" value="创作中最重要的事情" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="228" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="t58oHm_rBkXlfjUoumlM-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="t58oHm_rBkXlfjUoumlM-3" target="t58oHm_rBkXlfjUoumlM-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="t58oHm_rBkXlfjUoumlM-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="t58oHm_rBkXlfjUoumlM-3" target="t58oHm_rBkXlfjUoumlM-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="t58oHm_rBkXlfjUoumlM-3" value="知道在哪里结束" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="510" y="350" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="t58oHm_rBkXlfjUoumlM-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="t58oHm_rBkXlfjUoumlM-5" target="t58oHm_rBkXlfjUoumlM-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="t58oHm_rBkXlfjUoumlM-5" value="对创作过程有全局性把握" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="330" y="350" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="t58oHm_rBkXlfjUoumlM-7" value="is" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="570" y="300" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="t58oHm_rBkXlfjUoumlM-8" value="first" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="460" y="348" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="t58oHm_rBkXlfjUoumlM-9" value="对质量好坏有自己的判断能力" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="690" y="350" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="t58oHm_rBkXlfjUoumlM-11" value="second" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="630" y="348" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="t58oHm_rBkXlfjUoumlM-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="t58oHm_rBkXlfjUoumlM-12" target="t58oHm_rBkXlfjUoumlM-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="t58oHm_rBkXlfjUoumlM-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="t58oHm_rBkXlfjUoumlM-12" target="t58oHm_rBkXlfjUoumlM-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="t58oHm_rBkXlfjUoumlM-12" value="概念地图" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="140" y="350" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="t58oHm_rBkXlfjUoumlM-14" value="工具" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="275" y="348" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="t58oHm_rBkXlfjUoumlM-15" value="对整体有概念" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="20" y="533" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="t58oHm_rBkXlfjUoumlM-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="t58oHm_rBkXlfjUoumlM-19" target="t58oHm_rBkXlfjUoumlM-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="t58oHm_rBkXlfjUoumlM-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="t58oHm_rBkXlfjUoumlM-19" target="t58oHm_rBkXlfjUoumlM-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="t58oHm_rBkXlfjUoumlM-19" value="好处" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="205" y="438" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="t58oHm_rBkXlfjUoumlM-22" value="理解自己执行的部分" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="533" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="t58oHm_rBkXlfjUoumlM-24" value="自我监控&amp;amp;自我纠错" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="533" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="t58oHm_rBkXlfjUoumlM-28" value="新手和高手的差别" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1;fontColor=#f5000c;" vertex="1" parent="1">
+          <mxGeometry x="320" y="428" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="t58oHm_rBkXlfjUoumlM-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="t58oHm_rBkXlfjUoumlM-29" target="t58oHm_rBkXlfjUoumlM-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="t58oHm_rBkXlfjUoumlM-29" value="将头脑中的思想内容取出来，放在一个更稳定的空间中进行考察、研究与操作" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="125" y="188" width="150" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="t58oHm_rBkXlfjUoumlM-32" value="《认知学徒制》&lt;br style=&quot;font-size: 16px;&quot;&gt;《拓展的心智》" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="55" y="40" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="t58oHm_rBkXlfjUoumlM-34" value="&lt;b&gt;创造一个所有前提都在场的推论环境&lt;/b&gt;" style="whiteSpace=wrap;html=1;rounded=0;fontColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="330" y="208" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>

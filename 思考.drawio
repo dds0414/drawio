@@ -1,43 +1,43 @@
-<mxfile host="app.diagrams.net" modified="2024-01-18T03:22:47.166Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="aKmfc4KIauvvZTZSfmFD" version="22.1.21" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-18T03:23:05.004Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="mhgr8V6ozY0HbFKsRP5G" version="22.1.21" type="github">
   <diagram name="第 1 页" id="yMO6EmpfT2lew4IPm1B9">
     <mxGraphModel dx="1151" dy="581" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="A3wlTr5JBDcSNU8OOGNh-1" value="视频&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="A3wlTr5JBDcSNU8OOGNh-1" value="视频&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="120" y="140" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="A3wlTr5JBDcSNU8OOGNh-2" value="展示价值、满足好奇" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="A3wlTr5JBDcSNU8OOGNh-2" value="展示价值、满足好奇" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="340" y="140" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="A3wlTr5JBDcSNU8OOGNh-3" value="爱好" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="A3wlTr5JBDcSNU8OOGNh-3" value="爱好" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="570" y="140" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="A3wlTr5JBDcSNU8OOGNh-4" value="你的爱好是什么？" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="A3wlTr5JBDcSNU8OOGNh-4" value="你的爱好是什么？" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="860" y="155" width="130" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="A3wlTr5JBDcSNU8OOGNh-6" value="货币" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="A3wlTr5JBDcSNU8OOGNh-6" value="货币" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="120" y="270" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="A3wlTr5JBDcSNU8OOGNh-7" value="服务于社会流动" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="A3wlTr5JBDcSNU8OOGNh-7" value="服务于社会流动" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="340" y="270" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="A3wlTr5JBDcSNU8OOGNh-8" value="不可获取性" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="A3wlTr5JBDcSNU8OOGNh-8" value="不可获取性" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="570" y="270" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="A3wlTr5JBDcSNU8OOGNh-9" value="你能提供什么可以增加流动性的价值？" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="A3wlTr5JBDcSNU8OOGNh-9" value="你能提供什么可以增加流动性的价值？" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="860" y="285" width="130" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="A3wlTr5JBDcSNU8OOGNh-10" value="生活方式是被给定的" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="A3wlTr5JBDcSNU8OOGNh-10" value="生活方式是被给定的" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="120" y="414" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="A3wlTr5JBDcSNU8OOGNh-11" value="站在未来重塑当下生活" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="A3wlTr5JBDcSNU8OOGNh-11" value="站在未来重塑当下生活" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="340" y="414" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="A3wlTr5JBDcSNU8OOGNh-12" value="需求" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="A3wlTr5JBDcSNU8OOGNh-12" value="需求" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="570" y="414" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="A3wlTr5JBDcSNU8OOGNh-14" value="你的需求是否被需求？" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="A3wlTr5JBDcSNU8OOGNh-14" value="你的需求是否被需求？" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="860" y="429" width="130" height="30" as="geometry" />
         </mxCell>
       </root>
